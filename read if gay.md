@@ -1,1 +1,1 @@
-# AnnouncementSystemForModeratorsOnVexHub
+# AnnouncementSystemForModeratorsOnVexHubForStaff
